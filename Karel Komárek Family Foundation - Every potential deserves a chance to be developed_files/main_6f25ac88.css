@@ -1836,7 +1836,7 @@ img {
     position: relative
 }
 
-.instructor-bar {
+.cookie-bar {
     bottom: 0;
     left: 0;
     max-width: 44rem;
@@ -1846,24 +1846,24 @@ img {
     z-index: 1000
 }
 
-.instructor-bar > div {
+.cookie-bar > div {
     background-color: #ad9a96;
     padding: 1rem
 }
 
 @media (min-width: 768px) {
-    .instructor-bar > div {
+    .cookie-bar > div {
         padding: 3rem 16rem 3rem 3rem
     }
 }
 
-.instructor-bar p {
+.cookie-bar p {
     color: #fff;
     font-size: 1.2rem;
     margin: 0
 }
 
-.instructor-bar .cookie-closer {
+.cookie-bar .cookie-closer {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
@@ -1881,18 +1881,18 @@ img {
 }
 
 @media (max-width: 767px) {
-    .instructor-bar .cookie-closer {
+    .cookie-bar .cookie-closer {
         margin-top: 1em
     }
 }
 
-.instructor-bar .cookie-closer:before {
+.cookie-bar .cookie-closer:before {
     display: block;
     font-size: .7em
 }
 
 @media (min-width: 768px) {
-    .instructor-bar .cookie-closer {
+    .cookie-bar .cookie-closer {
         position: absolute;
         right: 5rem;
         top: 50%;

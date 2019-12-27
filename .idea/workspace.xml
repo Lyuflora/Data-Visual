@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e5e707-fbff-4e5b-b432-a5363b06b069" name="Default Changelist" comment="" />
+    <list default="true" id="04e5e707-fbff-4e5b-b432-a5363b06b069" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karel Komárek Family Foundation - Every potential deserves a chance to be developed.html" beforeDir="false" afterPath="$PROJECT_DIR$/Karel Komárek Family Foundation - Every potential deserves a chance to be developed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karel Komárek Family Foundation - Every potential deserves a chance to be developed_files/box-b736908ce6b0e933fad3a2e45df61b38.html" beforeDir="false" afterPath="$PROJECT_DIR$/Karel Komárek Family Foundation - Every potential deserves a chance to be developed_files/box-b736908ce6b0e933fad3a2e45df61b38.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karel Komárek Family Foundation - Every potential deserves a chance to be developed_files/main_6f25ac88.css" beforeDir="false" afterPath="$PROJECT_DIR$/Karel Komárek Family Foundation - Every potential deserves a chance to be developed_files/main_6f25ac88.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VSi2QBjkTrlQjzv7TI9QmIeCmq" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\Data-Visual\js" />
+      <recent name="D:\GitHub\Data-Visual\Karel Komárek Family Foundation - Every potential deserves a chance to be developed_files" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,7 +58,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577252688920</updated>
-      <workItem from="1577252690123" duration="150000" />
+      <workItem from="1577252690123" duration="2528000" />
+      <workItem from="1577261219561" duration="1058000" />
+      <workItem from="1577265048379" duration="1794000" />
+      <workItem from="1577293348129" duration="39000" />
+      <workItem from="1577343442916" duration="921000" />
+      <workItem from="1577345104032" duration="396000" />
+      <workItem from="1577346587317" duration="938000" />
+      <workItem from="1577349345318" duration="247000" />
+      <workItem from="1577349867609" duration="14000" />
     </task>
     <servers />
   </component>
@@ -51,7 +78,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
